@@ -20,7 +20,7 @@ I hope some of what I write will speak to you in the same way that it does for m
 
 If you are curious to how this website was designed, check out [Jekyll](https://jekyllrb.com/){:target="_blank"}.
 As an upcoming computer science student I wanted to put some effort in understanding the nature of web development, but writing in pure HTML, CSS and Javascript
-is admittedly a pain. Jekyll allows the user to write and format text directly through markdown, and by using [GitHub Pages](https://pages.github.com/){:target="_blank}
+is admittedly a pain. Jekyll allows the user to write and format text directly through markdown, and by using [GitHub Pages](https://pages.github.com/){:target="_blank"}
 I am able to host the website online publicly with no charge.
 
 -need to figure out how to add images
