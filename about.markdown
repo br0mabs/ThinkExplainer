@@ -36,9 +36,6 @@ individually or with friends.
 a few bad actors. Examples include [this](https://myanimelist.net/anime/50709/Lycoris_Recoil){:target="_blank"}
 and [this](https://myanimelist.net/anime/47917/Bocchi_the_Rock){:target="_blank"}.
 
-With everything that makes me who I am considered, it's important to note that along with you, I too am just trying to navigate this convoluted thing called life.
-It might be the differences that get you into the university or job that you want, but its the similarities that connect you with others.
-
 {:refdef: style="text-align: center;"}
 ![chisato heart]({{ page.image2 | relative_url }}){:width="50%"}
 {: refdef}
