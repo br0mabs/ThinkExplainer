@@ -1,19 +1,33 @@
 ---
 layout: post
-title:  "Test" 
+title:  "Fundamental Questions" 
 date:   2023-06-13 09:21:27 -0400
 categories:
 ---
-## borga
 
-lesgo
+## If
 
-`epic`
+`a`
 
-*markdown*
+**tree**
 
-**bold**
+_falls_
 
-~~strikethrough~~
+{% highlight ruby %}
+in a forest
+{% endhighlight %}
 
-test commit ig
+~~and no one hears~~
+
+# did
+
+[it](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank"}
+
+>make
+
+- a
+
+sound?
+
+
+
