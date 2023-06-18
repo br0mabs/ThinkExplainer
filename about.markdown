@@ -6,6 +6,8 @@ image1: /assets/images/elephant.jpg
 image2: /assets/images/chisato.jpg
 ---
 
+_<font size= "2"> Last updated: June 15, 2023 </font>_
+
 # Myself
 
 Hey there!
@@ -21,7 +23,7 @@ As for general interests and hobbies, there's far too many to explain fully, but
 - Playing sports. I enjoy playing any sports, although I'm better at some than others (do not observe my basketball skills). Some notable ones include
 hockey (played for 8 years), baseball, soccer, and ultimate frisbee ([yes, this is a sport!](https://en.wikipedia.org/wiki/Ultimate_(sport)){:target="_blank"}).
 
-- Card games. random Chinese card games like [_sheng ji_](https://en.wikipedia.org/wiki/Sheng_ji){:target="_blank"} which I play with adults at family
+- Card games. Random Chinese card games like [_sheng ji_](https://en.wikipedia.org/wiki/Sheng_ji){:target="_blank"} which I play with adults at family
 gatherings, as well as more common ones like president and poker are interesting to me.
 
 - [Japanese (Riichi) Mahjong](https://riichi.wiki/Japanese_mahjong){:target="_blank"}. Hard to learn at first but the fact that every round of the game
