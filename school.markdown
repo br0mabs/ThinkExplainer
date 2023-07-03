@@ -19,6 +19,8 @@ Planned 1A courses:
 - COMMST 223
 - PHYS 121
 
+Co-op stream 1
+
 # [Milliken Mills High School](https://en.wikipedia.org/wiki/Milliken_Mills_High_School){:target="_blank} [IBDP](https://www.ibo.org/programmes/diploma-programme/){:target="_blank"} '23
 
 If you have any questions about the following courses feel free to ask:
