@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Contact
+title: Subscribe
+permalink: /subscribe/
 ---
 
 Don't want to miss a post?
