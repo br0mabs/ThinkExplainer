@@ -2,6 +2,7 @@
 layout: page
 title: School
 permalink: /school/
+image1: /assets/images/ibmald.png
 ---
 
 _<font size= "2"> Last updated: July 2, 2023 </font>_
@@ -25,12 +26,23 @@ Co-op stream 1
 
 If you have any questions about the following courses feel free to ask:
 
-- HL Literature A English
-- HL Chemistry
-- HL Economics
-- SL Physics
-- SL Math Analysis and Approaches
-- SL French B (jk I suck at french)
+- HL Literature A English (IB level 6)
+- HL Chemistry (IB level 7)
+- HL Economics (IB level 6)
+- SL Physics (IB level 7)
+- SL Math Analysis and Approaches (IB level 7)
+- SL French B (IB level 6)
+- TOK (grade: B)
+
+barely clutched an A on EE (mathematics)
+
+Total IB score: 42/45
 
 Mr. Coates orz
+
+{:refdef: style="text-align: center;"}
+![ib mald]({{ page.image1 | relative_url }}){:width="25%"}
+{: refdef}
+you win some you lose some
+
 
