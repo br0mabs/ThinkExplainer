@@ -3,9 +3,13 @@ layout: post
 title:  "Work and Play" 
 date:   2023-07-13 20:02:33 -0400
 categories:
+image1: /assets/images/yellowstone1.jpg
+image2: /assets/images/yellowstone2.jpg
+image3: /assets/images/yellowstone3.jpg
+image4: /assets/images/yellowstone4.jpg
 ---
 
-_<font size= "2"> Last updated: July 15, 2023 </font>_
+_<font size= "2"> Last updated: July 16, 2023 </font>_
 
 Here's a throwback to ENG4U: How do paradoxical statements convey meaning?
 
@@ -51,6 +55,56 @@ where one can experience natural hydrothermal activity such as geysers, hot spri
 
 Additionally, experiencing the different terrain and biomes while driving over from Salt Lake City contrasts sharply with the same old views I am used to seeing back in Toronto, an example of what is needed to break the monotomy of everyday life.
 
-
 Many firsts have been acheived over these past two weeks, and many more are to come.
+
+Scroll down for epic pics!
+
+{:refdef: style="text-align: center;"}
+![grand teton]({{ page.image1 | relative_url }})
+{: refdef}
+
+<font size="6">
+	<div align="center">
+		 Grand Teton
+	</div>
+</font>
+<br>
+
+{:refdef: style="text-align: center;"}
+![grand prismatic spring]({{ page.image2 | relative_url }})
+{: refdef}
+
+
+<font size="6">
+	<div align="center">
+		 Grand Prismatic Spring
+	</div>
+</font>
+<br>
+
+{:refdef: style="text-align: center;"}
+![lower falls from artist's point]({{ page.image3 | relative_url }})
+{: refdef}
+
+
+<font size="6">
+	<div align="center">
+		 Lower Falls from Artist's Point
+	</div>
+</font>
+<br>
+
+{:refdef: style="text-align: center;"}
+![norris porcelain basin]({{ page.image4 | relative_url }})
+{: refdef}
+
+
+<font size="6">
+	<div align="center">
+		 Norris Geyser Basin
+	</div>
+</font>
+<br>
+
+
 
