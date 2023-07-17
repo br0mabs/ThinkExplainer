@@ -7,6 +7,7 @@ image1: /assets/images/yellowstone1.jpg
 image2: /assets/images/yellowstone2.jpg
 image3: /assets/images/yellowstone3.jpg
 image4: /assets/images/yellowstone4.jpg
+image5: /assets/images/yellowstone5.jpg
 ---
 
 _<font size= "2"> Last updated: July 16, 2023 </font>_
@@ -63,7 +64,7 @@ Scroll down for epic pics!
 ![grand teton]({{ page.image1 | relative_url }})
 {: refdef}
 
-<font size="6">
+<font size="4">
 	<div align="center">
 		 Grand Teton
 	</div>
@@ -75,7 +76,7 @@ Scroll down for epic pics!
 {: refdef}
 
 
-<font size="6">
+<font size="4">
 	<div align="center">
 		 Grand Prismatic Spring
 	</div>
@@ -87,7 +88,7 @@ Scroll down for epic pics!
 {: refdef}
 
 
-<font size="6">
+<font size="4">
 	<div align="center">
 		 Lower Falls from Artist's Point
 	</div>
@@ -99,9 +100,21 @@ Scroll down for epic pics!
 {: refdef}
 
 
-<font size="6">
+<font size="4">
 	<div align="center">
 		 Norris Geyser Basin
+	</div>
+</font>
+<br>
+
+{:refdef: style="text-align: center;"}
+![bison]({{ page.image5 | relative_url }})
+{: refdef}
+
+
+<font size="4">
+	<div align="center">
+		 Bison
 	</div>
 </font>
 <br>
