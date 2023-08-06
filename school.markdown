@@ -18,7 +18,7 @@ Planned 1A courses:
 - MATH 147
 - CS 145
 - COMMST 223
-- PHYS 121
+- PHIL 145
 
 Co-op stream 1
 
