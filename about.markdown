@@ -48,7 +48,7 @@ That should do for a Preface.
 I made this blog/website to share my personal opinion regarding various topics in a conversational tone, with the intent of considering the deeper
 philosophical nature of my day-to-day experiences. I believe inquiry and reflection regarding individuals and their
 relationship to the world is needed to give meaning to past, present, and future experiences. That being said, not everything posted on this
-website will be deep shit ~~(it's not that deep!!11!!1!)~~. There's nothing wrong just considering the superficial transiency of everyday life — if I feel like writing about something I'll do it.
+website will be deep ~~(it's not that deep!!11!!1!)~~. There's nothing wrong just considering the superficial transiency of everyday life — if I feel like writing about something I'll do it.
 
 I hope that some of what I write will speak to you in the same way that it does for me. And if you disagree with anything said, great!
 
