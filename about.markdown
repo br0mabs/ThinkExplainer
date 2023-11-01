@@ -2,11 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-image1: /assets/images/elephant.jpg
 image2: /assets/images/chisato.jpg
 ---
 
-_<font size= "2"> Last updated: July 15, 2023 </font>_
+_<font size= "2"> Last updated: November 1, 2023 </font>_
 
 # Myself
 
@@ -52,11 +51,6 @@ relationship to the world is needed to give meaning to past, present, and future
 website will be deep shit ~~(it's not that deep!!11!!1!)~~. There's nothing wrong just considering the superficial transiency of everyday life — if I feel like writing about something I'll do it.
 
 I hope that some of what I write will speak to you in the same way that it does for me. And if you disagree with anything said, great!
-This is what someone that can't take any criticism looks like:
-
-{:refdef: style="text-align: center;"}
-![elephant being sus]({{page.image1 | relative_url}}){:width="50%"}
-{: refdef}
 
 # Technical Details
 
