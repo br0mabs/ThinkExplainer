@@ -5,7 +5,7 @@ permalink: /school/
 image1: /assets/images/ibmald.png
 ---
 
-_<font size= "2"> Last updated: October 8, 2023 </font>_
+_<font size= "2"> Last updated: December 10, 2023 </font>_
 
 This page will be reserved to stuff purely related to school that may be useful. That may include notes,
 timetables, or other information that can be made public but don't contribute to the main blog page.
@@ -15,7 +15,7 @@ timetables, or other information that can be made public but don't contribute to
 Planned 1B Courses:
 
 - MATH 146 Linear Algebra 1 (Advanced Level)
-- MATH 148 Calculus 2 (Advanced Level)
+- MATH 138 Calculus 2
 - CS 146 Elementary Algorithm Design and Data Abstraction (Advanced Level)
 - CS 136L Tools and Techniques for Software Development
 - GEOG 181 Designing Effective Maps
@@ -28,7 +28,7 @@ Planned 1B Courses:
 - COMMST 223 Public Speaking
 - PHIL 145 Critical Thinking
 
-Co-op sequence 1
+Co-op sequence 2
 
 # [Milliken Mills High School](https://en.wikipedia.org/wiki/Milliken_Mills_High_School){:target="_blank} [IBDP](https://www.ibo.org/programmes/diploma-programme/){:target="_blank"} '23
 

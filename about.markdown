@@ -5,14 +5,13 @@ permalink: /about/
 image2: /assets/images/chisato.jpg
 ---
 
-_<font size= "2"> Last updated: November 1, 2023 </font>_
+_<font size= "2"> Last updated: November 13, 2023 </font>_
 
 # Myself
 
 Hey there!
 
-My name is Steven Gu and I am a soon to be [IBDP](https://www.ibo.org/programmes/diploma-programme/){:target="_blank"} high school
-graduate and first year computer science student at the University of Waterloo.
+My name is Steven Gu and I am an [IBDP](https://www.ibo.org/programmes/diploma-programme/){:target="_blank"} alumnus and first year computer science student at the University of Waterloo.
 
 I enjoy a variety of academic subjects, ranging from physics to philosophy, mathematics to music. It is my belief that any subject
 is enjoyable if it is taught in an engaging manner.
